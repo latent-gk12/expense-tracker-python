@@ -52,3 +52,5 @@ python main.py
 - Input validation
 - GUI using Tkinter
 - Database integration using SQLite
+
+## Last updated on June 2026
